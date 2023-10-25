@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Desktop/jjj/mlruns/0/40e99a09dab2433e937aed461e450bac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40e99a09dab2433e937aed461e450bac
+run_name: crawling-frog-6
+run_uuid: 40e99a09dab2433e937aed461e450bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698192135591
+status: 1
+tags: []
+user_id: mohamed
